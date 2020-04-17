@@ -1,10 +1,10 @@
 ### _XOOPS Documentation Series_
-![](en/assets/logoXoops.jpg)
+![](assets/logoXoops.jpg)
 
 # Module Yogurt
 #### for XOOPS 2.5.10
       
-![](en/assets/logoModule.png)
+![](assets/logoModule.png)
             
 ## User Manual
 
@@ -14,12 +14,12 @@
 
 This module is a **Social Network** module for [XOOPS CMS](https://xoops.org)
 
-![](en/assets/image001.png)
+![](assets/image001.png)
 *Figure 1: Main view of the Yogurt Module (Admin side)*
 
 ## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
 
-**You can fork the module --> [here](https://github.com/XoopsModules25x/yogurt))** 
+**You can fork the module --> [here](https://github.com/XoopsModules25x/XXX))** 
 
 ## How to Contribute
 
@@ -29,16 +29,16 @@ Editing the book can be done by forking the tutorial from [GitHub](https://githu
 
 # Table of Content
 
-* [Install/Uninstall](en/book/1install.md)
-* [Administration Menu](en/book/2administration.md)
-* [Preferences](en/book/3preferences.md)
-* [Operating Instructions](en/book/4operations.md)
-* [The User Side](en/book/5userside.md)
-* [Blocks](en/book/6blocks.md)
-* [Templates](en/book/7templates.md)
-* [Miscellaneous](en/book/8other.md) 
-* [Module Credits](en/book/9credits.md)
-* [About XOOPS CMS](en/book/10aboutxoops.md)
+* [Install/Uninstall](book/1install.md)
+* [Administration Menu](book/2administration.md)
+* [Preferences](book/3preferences.md)
+* [Operating Instructions](book/4operations.md)
+* [The User Side](book/5userside.md)
+* [Blocks](book/6blocks.md)
+* [Templates](book/7templates.md)
+* [Miscellaneous](book/8other.md) 
+* [Module Credits](book/9credits.md)
+* [About XOOPS CMS](book/10aboutxoops.md)
 
 ## License:
 
