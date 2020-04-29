@@ -1,7 +1,7 @@
 ### _XOOPS Documentation Series_
 ![](en/assets/logoXoops.jpg)
 
-# Module Yogurt
+# Module Suico
 #### for XOOPS 2.5.10
       
 ![](en/assets/logoModule.png)
@@ -15,17 +15,17 @@
 This module is a **Social Network** module for [XOOPS CMS](https://xoops.org)
 
 ![](en/assets/image001.png)
-*Figure 1: Main view of the Yogurt Module (Admin side)*
+*Figure 1: Main view of the Suico Module (Admin side)*
 
 ## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
 
-**You can fork the module --> [here](https://github.com/XoopsModules25x/yogurt))** 
+**You can fork the module --> [here](https://github.com/XoopsModules25x/suico))** 
 
 ## How to Contribute
 
-[You can contribute on GitHub](https://github.com/XoopsDocs/yogurt-tutorial). Changes will be [pushed to Gitbook.io automatically](https://xoops.gitbook.io/yogurt-tutorial/) when the [main repository](https://github.com/XoopsDocs/yogurt-tutorial) changes.
+[You can contribute on GitHub](https://github.com/XoopsDocs/suico-tutorial). Changes will be [pushed to Gitbook.io automatically](https://xoops.gitbook.io/suico-tutorial/) when the [main repository](https://github.com/XoopsDocs/suico-tutorial) changes.
 
-Editing the book can be done by forking the tutorial from [GitHub](https://github.com/XoopsDocs/yogurt-tutorial), updating the markdown files with a text editor, and then submitting it back via a Pull Request.
+Editing the book can be done by forking the tutorial from [GitHub](https://github.com/XoopsDocs/suico-tutorial), updating the markdown files with a text editor, and then submitting it back via a Pull Request.
 
 # Table of Content
 

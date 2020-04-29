@@ -4,45 +4,45 @@ There are following Smarty templates:
 
 **Front-end:**
 
-- yogurt_album.tpl
-- yogurt_audio.tpl
-- yogurt_configs.tpl
-- yogurt_editgroup.tpl
-- yogurt_fans.tpl
-- yogurt_footer.tpl
-- yogurt_friends.tpl
-- yogurt_group.tpl
-- yogurt_groups.tpl
-- yogurt_groups_results.tpl
-- yogurt_index.tpl
-- yogurt_memberslist.tpl
-- yogurt_navbar.tpl
-- yogurt_notebook.tpl
-- yogurt_notifications.tpl
-- yogurt_searchform.tpl
-- yogurt_searchresults.tpl
-- yogurt_user.tpl
-- yogurt_video.tpl
+- suico_album.tpl
+- suico_audio.tpl
+- suico_configs.tpl
+- suico_editgroup.tpl
+- suico_fans.tpl
+- suico_footer.tpl
+- suico_friends.tpl
+- suico_group.tpl
+- suico_groups.tpl
+- suico_groups_results.tpl
+- suico_index.tpl
+- suico_memberslist.tpl
+- suico_navbar.tpl
+- suico_notebook.tpl
+- suico_notifications.tpl
+- suico_searchform.tpl
+- suico_searchresults.tpl
+- suico_user.tpl
+- suico_video.tpl
 
 **Back-end**
 
-- yogurt_admin_about.tpl
-- yogurt_admin_audio.tpl
-- yogurt_admin_configs.tpl
-- yogurt_admin_friendpetition.tpl
-- yogurt_admin_friendship.tpl
-- yogurt_admin_groups.tpl
-- yogurt_admin_help.tpl
-- yogurt_admin_images.tpl
-- yogurt_admin_notes.tpl
-- yogurt_admin_relgroupuser.tpl
-- yogurt_admin_suspensions.tpl
-- yogurt_admin_video.tpl
-- yogurt_admin_visitors.tpl
+- suico_admin_about.tpl
+- suico_admin_audio.tpl
+- suico_admin_configs.tpl
+- suico_admin_friendpetition.tpl
+- suico_admin_friendship.tpl
+- suico_admin_groups.tpl
+- suico_admin_help.tpl
+- suico_admin_images.tpl
+- suico_admin_notes.tpl
+- suico_admin_relgroupuser.tpl
+- suico_admin_suspensions.tpl
+- suico_admin_video.tpl
+- suico_admin_visitors.tpl
 
 **Blocks**
 
-- yogurt_block_friends.tpl
-- yogurt_block_hotfriends.tpl
-- yogurt_block_hottest.tpl
-- yogurt_block_lastpictures.tpl
+- suico_block_friends.tpl
+- suico_block_hotfriends.tpl
+- suico_block_hottest.tpl
+- suico_block_lastpictures.tpl
