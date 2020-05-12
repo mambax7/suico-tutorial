@@ -2,7 +2,9 @@
 ![](en/assets/logoXoops.jpg)
 
 # Module Suico
-#### for XOOPS 2.5.10
+#### for XOOPS 2.5.10+
+
+#### for PHP 7.1+
       
 ![](en/assets/logoModule.png)
             
